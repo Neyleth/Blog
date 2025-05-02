@@ -263,6 +263,7 @@ article img {
 
 .container-footer footer .logo-footer img {
   width: 100px;
+  border-radius: 50%;
 }
 
 .container-footer footer .redes-footer {
